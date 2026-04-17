@@ -18,12 +18,18 @@ I’m currently a third-year Computer Science student at Angeles University Foun
 
 ## About me
 
-I’m continuously learning new tools and technologies, working on personal and academic projects, and looking for opportunities to grow as a developer. My goal is to become a well-rounded software engineer who can contribute to innovative projects, particularly those that leverage AI to make a meaningful impact.
+I’m continuously learning new tools and technologies, working on personal and academic projects, and actively seeking opportunities to grow as a developer. My goal is to become a well-rounded software engineer who can contribute to innovative projects—especially those that leverage AI to create meaningful, real-world impact.
 
-- 🎓 Studying BSCS at AUF
-- 💻 Currently learning GitHub
-- 🌱 Building my first app
-- ⚡ Fun fact: Champion
+🎓 Studying BSCS at AUF
+💻 Currently learning GitHub and version control best practices
+🌱 Building my first app and exploring full-stack development
+🤖 Interested in AI, machine learning, and intelligent systems
+📱 Exploring mobile app development (Android / cross-platform)
+🌐 Learning modern web technologies (HTML, CSS, JavaScript, frameworks)
+🛠️ Practicing problem-solving and data structures & algorithms
+🚀 Open to internships, collaborations, and real-world projects
+📚 Always curious and committed to continuous learning
+⚡ Fun fact: Champion
 
 ---
 
